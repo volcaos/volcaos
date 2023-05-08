@@ -1,4 +1,4 @@
-Hi there👋, I'm:
+### Hi there👋, I'm:
 
 - 👨‍💻 Freelance Software Engineer
 - 🖥️ Interested in Computer Graphics, Generative Art, IoT, and more
